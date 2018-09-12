@@ -1,0 +1,20 @@
+.white{
+    color: white;
+}
+
+.text-small{
+    font-size: medium;
+    font-family: serif;
+}
+
+body {
+    background: linear-gradient(to bottom, #000000, #330033,#000033, #000000, #000003);
+    background-image: url("/assets/images/stars.jpg");
+    background-size: 150%;
+    background-repeat: no-repeat;
+    
+  }
+
+
+
+
